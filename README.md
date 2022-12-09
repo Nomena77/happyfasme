@@ -1,4 +1,4 @@
-# FASHIOM'S WEBSITE :madagascar:
+# FASHION'S WEBSITE :madagascar:
 
 *** This site was created to sell articles following the four seasons ***
 
