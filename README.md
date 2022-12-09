@@ -1,6 +1,6 @@
 # FASHION'S WEBSITE :madagascar:
 
-***This site was created to sell articles following the four seasons***
+***This site is made to sell clothes according to the four seasons***
 
 - winter
 - spring
