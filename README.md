@@ -7,7 +7,7 @@
 - summer
 - autumn
 
-<sub> les havres three folder <sub>
+***This site was divided on three folder***
 1. images : 
 * contains all images . All images on **pixabay**.
 2. css :
