@@ -1,6 +1,6 @@
 # FASHION'S WEBSITE :madagascar:
 
-*** This site was created to sell articles following the four seasons ***
+***This site was created to sell articles following the four seasons***
 
 - winter
 - spring
@@ -15,7 +15,8 @@
 3. js :
 * contains the script controls all clicks , make it dynamic.
 
-** We divide, four sections **
+***We divide, four sections***
+
 :arrow_forward: - 1.home : interface shows the site functionment
 
 :arrow_forward: - 2.price : set of shows images and price and on bottom 
